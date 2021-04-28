@@ -30,3 +30,5 @@ Chaque test renseigne :
 - le résultat obtenu
 - le screenshot obtenu
 - commentaires
+
+Un dossier `screenshots` accompagne le classeur
