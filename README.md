@@ -4,10 +4,11 @@ Ce repository héberge un projet de CAHIER de test pour un parcours utilisateur 
 ---
 
 ## in scope :
-- les parcours d'inscriptions nominaux et erreurs pour les CLIENTS et COMMERCANT pour DESKTOP et MOBILE
+- les parcours d'inscriptions nominaux et non-nominaux pour les CLIENTS et COMMERCANTS pour DESKTOP et MOBILE.
 
 ## out scope :
-- les autres tests (nr, autres parcours, ...)
+- Le parcours inscription facebook (l'auteur n'a pas de compte facebook pour explorer le parcours)
+- Les autres tests (nr, autres parcours, ...)
 
 # Mode d'emploi :
 Le cahier est un classeur excel, il comprend :
